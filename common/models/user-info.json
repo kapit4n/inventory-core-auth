@@ -1,0 +1,29 @@
+{
+  "name": "user-info",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "img": {
+      "type": "string"
+    },
+    "biography": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "user": {
+      "type": "belongsTo",
+      "model": "user",
+      "foreignKey": ""
+    }
+  },
+  "acls": [],
+  "methods": {}
+}

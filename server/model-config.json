@@ -66,5 +66,9 @@
   "category": {
     "dataSource": "db",
     "public": true
+  },
+  "user-info": {
+    "dataSource": "db",
+    "public": true
   }
 }
