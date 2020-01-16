@@ -12,6 +12,7 @@ var senderAddress = 'noreply@loopback.com';
 module.exports = function(User) {
   //send verification email after registration
   User.afterRemote('create', function(context, user, next) {
+    console.log(user);
     var options = {
       type: 'email',
       to: user.email,

@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Mani Soup",
+        "code": "111111",
+        "price": 5,
+        "description": "Delicious soup.",
+        "stock": 10,
+        "img": "https://www.196flavors.com/wp-content/uploads/2018/12/sopa-de-mani-3-FP.jpg"
+    },
+    {
+        "name": "Pique Macho",
+        "code": "222222",
+        "price": 15,
+        "description": "",
+        "stock": 10,
+        "img": "https://i0.wp.com/elcalderoviajero.com/wp-content/uploads/2018/12/pique-a-lo-macho-12.jpg?fit=750%2C498&ssl=1"
+    },
+    {
+        "name": "Pampaku",
+        "code": "333333",
+        "price": 20,
+        "description": "",
+        "stock": 10,
+        "img": "http://blog.ultracasas.com/wp-content/uploads/2017/06/pampaku-e1498442806851.jpg"
+    },
+    {
+        "name": "Lapping",
+        "code": "444444",
+        "price": 15,
+        "description": "",
+        "stock": 10,
+        "img": "http://blog.ultracasas.com/wp-content/uploads/2017/06/05-Lapping-e1498443078767.jpg"
+    },
+    {
+        "name": "Habas Pejtu",
+        "code": "555555",
+        "price": 15,
+        "description": "",
+        "stock": 10,
+        "img": "http://blog.ultracasas.com/wp-content/uploads/2017/06/PEJTU-DE-HABAS-e1498443180948.jpg"
+    },
+    {
+        "name": "Chajchu",
+        "code": "666666",
+        "price": 15,
+        "description": "",
+        "stock": 10,
+        "img": "https://blog.ultracasas.com/wp-content/uploads/2017/06/chajchu.jpg"
+    },
+    {
+        "name": "Puchero",
+        "code": "77777",
+        "price": 15,
+        "description": "",
+        "stock": 10,
+        "img": "http://blog.ultracasas.com/wp-content/uploads/2017/06/el-puchero-e1498444806799.jpg"
+    }
+}

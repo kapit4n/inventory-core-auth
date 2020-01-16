@@ -34,5 +34,37 @@
     "dataSource": "db",
     "public": true,
     "options": {}
+  },
+  "product": {
+    "dataSource": "db",
+    "public": true
+  },
+  "order": {
+    "dataSource": "db",
+    "public": true
+  },
+  "orderDetail": {
+    "dataSource": "db",
+    "public": true
+  },
+  "customer": {
+    "dataSource": "db",
+    "public": true
+  },
+  "purchase-order": {
+    "dataSource": "db",
+    "public": true
+  },
+  "purchase-item": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Vendor": {
+    "dataSource": "db",
+    "public": true
+  },
+  "category": {
+    "dataSource": "db",
+    "public": true
   }
 }

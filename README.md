@@ -7,6 +7,10 @@ $ npm install
 $ node .
 ```
 
+# DB
+- use usersm
+- db.createUser({ user: "usersm", pwd: "password", roles: [ "readWrite", "dbAdmin" ] });
+
 - [Project Layout](https://github.com/strongloop/loopback-example-user-management#project-layout)
 - [How do you register a new user?](https://github.com/strongloop/loopback-example-user-management#how-do-you-register-a-new-user)
 - [How do you send an email verification for a new user registration?](https://github.com/strongloop/loopback-example-user-management#how-do-you-send-an-email-verification-for-a-new-user-registration)
