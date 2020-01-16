@@ -1,7 +1,12 @@
 {
   "db": {
+    "host": "127.0.0.1",
+    "url": "",
+    "database": "usersm",
+    "password": "password",
     "name": "db",
-    "connector": "memory"
+    "user": "usersm",
+    "connector": "mongodb"
   },
   "emailDs": {
     "name": "emailDs",
@@ -16,8 +21,8 @@
           "rejectUnauthorized": false
         },
         "auth": {
-          "user": "email@address.com",
-          "pass": "password"
+          "user": "luis.arce22@gmail.com",
+          "pass": "xxxxxxxx"
         }
       }
     ]
